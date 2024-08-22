@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2024-08-22T09:40:11+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">woocheol’s space</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Woo124</name></author><entry><title type="html">2024-01학기 하계 모각코 5주차 활동</title><link href="/jekyll-theme-yat/mogakco/2024/07/31/week05.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 5주차 활동" /><published>2024-07-31T20:00:00+00:00</published><updated>2024-07-31T20:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/31/week05</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/31/week05.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h4 id="학습내용--2학기-자율-주행-관련-리서치">학습내용 : 2학기 자율 주행 관련 리서치</h4>
+
+<pre><code class="language-phython">처음 접해보는 자율주행 프로그램에 대한 리서치를 진행하였습니다.
+자율주행 프로그램에도 세부적인 부분들이 많다는 것을 알게되었고,
+그 중 차선, 물체 등의 인식에 대한 부분이 중요하다 생각이 들어
+이와 관련하여 중점적으로 공부를 진행하였습니다.
+
+이를 통해 소트프웨어적 부분 뿐 아니라 하드웨어적으로 어떻게 
+구현되는지에 대한 부분 또한 알게되었습니다.
+</code></pre>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">2024-01학기 하계 모각코 4주차 활동</title><link href="/jekyll-theme-yat/mogakco/2024/07/24/week04.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 4주차 활동" /><published>2024-07-24T20:00:00+00:00</published><updated>2024-07-24T20:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/24/week04</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/24/week04.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h4 id="학습내용--classification-gan-학습-내용-복습-및-과제-내용-리뷰">학습내용 : Classification, GAN 학습 내용 복습 및 과제 내용 리뷰</h4>
+
+<pre><code class="language-phython">분류모델과 GAN의 학습 내용을 복습하였다. classification의 경우 이번 방학 간
+나간 대회의 주제이기도 하였기에 해당 내용을 복습하며 대회 준비에 도움이 될 수 있었다.
+
+분류모델 학습을 하며 정확도 향상을 위한 방법들에 대해 탐구해보았고, 이를 실습간
+진행하였던 모델에 적용해보고, 대회의 base 모델에 또한 추가적으로 적용하여 성능 향상을 가시적으로
+확인해볼 수 있었다.
+
+GAN은 이미지 생성에 대한 모델로써, 학기 중 수업 당시에도 분류와는 다르게 사전에 정답 데이터가 없이
+generator와 discriminator를 통해 이미지를 생성하는 방법이 흥미롭게 다가왔었고, 이번 복습을 하며
+이 모델에 대해 더 깊이 이해할 수 있었다.
+</code></pre>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">2024-01학기 하계 모각코 3주차 활동</title><link href="/jekyll-theme-yat/mogakco/2024/07/17/week03.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 3주차 활동" /><published>2024-07-17T20:00:00+00:00</published><updated>2024-07-17T20:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/17/week03</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/17/week03.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h4 id="학습내용--reinforcement-learning-학습-내용-복습-및-과제-내용-리뷰">학습내용 : Reinforcement Learning 학습 내용 복습 및 과제 내용 리뷰</h4>
+
+<pre><code class="language-phython">강화학습의 개념과 강화학습의 종류에 대해 복습하였다.
+
+학기 중 강화학습 학습 중 관련 영상을 보고 강화학습에 대한 흥미가 생겼고, 이에 대해 추후 공부를 해보고싶다는 생각이 들어
+이번 모각코 활동을 통해 다시 한 번 복습하고, 이해도를 높일 수 있었다.
+
+강화학습의 종류 중 Q-learning, DQN, A3C, DDPG 등의 알고리즘에 대해 다시 추가적인 조사와 공부를 통해 이해도를 높일 수 있었다.
+
+이후 해당 주제의 실습 리뷰를 통해 보다 많은 학습을 할 수 있었다.
+</code></pre>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">2024-01학기 하계 모각코 2주차 활동</title><link href="/jekyll-theme-yat/mogakco/2024/07/10/week02.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 2주차 활동" /><published>2024-07-10T20:00:00+00:00</published><updated>2024-07-10T20:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/10/week02</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/10/week02.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h4 id="학습내용--nlp-image-processing-학습-내용-복습-및-과제-내용-리뷰">학습내용 : NLP, Image Processing 학습 내용 복습 및 과제 내용 리뷰</h4>
+
+<pre><code class="language-phython">자연어 처리 모델 중 BERT, GPT, Transformer 등의 모델과 이미지 처리 모델 중 CNN, RNN, LSTM 등의 모델을 복습하였다.
+
+학기 중 수업 때도 배웠던 내용이지만, 다시 한번 복습하며 이해도를 높일 수 있었고, 해당 주차의 과제들을 다시 리뷰하며 복습하였다.
+늘 사용하는 GPT와 같은 모델에 대해 학기 중 배울 때부터 흥미를 느꼈고 이번 모각코를 통해 추가적으로 공부하며 더 깊이 이해할 수 있었다.
+또한 이미지 처리 모델의 경우 이미지 생성과 같은 과정이 재밌었고, 이번 주차에 해당 내용을 복습하며 더 깊이 이해할 수 있었다.
+</code></pre>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">2024-01학기 하계 모각코 1주차 활동</title><link href="/jekyll-theme-yat/mogakco/2024/07/03/week01.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 1주차 활동" /><published>2024-07-03T20:00:00+00:00</published><updated>2024-07-03T20:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/03/week01</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/03/week01.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h4 id="학습내용--tree-구조-복습-및-알고리즘-학습-및-리뷰">학습내용 : tree 구조 복습 및 알고리즘 학습 및 리뷰</h4>
+
+<pre><code class="language-phython">binary tree, binary search tree, AVL tree, red-black tree, B-tree,
+B+ tree, B* tree, trie, heap, graph, DFS, BFS 등 1학기 수업 간 배웠던
+tree 구조를 복습 및 학습하였고 해당주차의 과제들을 다시 리뷰하며 복습하였다.
+
+tree의 여러 알고리즘들에 대한 이해가 향상되었고, 특히 1학기 과정 중 가장
+헷갈렸던 tree의 회전과 정렬에 대해 다시 한번 복습하며 이해도를 높일 수 있었다.
+</code></pre>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">2024-01학기 하계 모각코 활동 계획</title><link href="/jekyll-theme-yat/mogakco/2024/07/01/AiReview.html" rel="alternate" type="text/html" title="2024-01학기 하계 모각코 활동 계획" /><published>2024-07-01T18:00:00+00:00</published><updated>2024-07-01T18:00:00+00:00</updated><id>/jekyll-theme-yat/mogakco/2024/07/01/AiReview</id><content type="html" xml:base="/jekyll-theme-yat/mogakco/2024/07/01/AiReview.html"><![CDATA[<h3 id="학번--202102539">학번 : 202102539</h3>
+<h3 id="이름--김우철">이름 : 김우철</h3>
+
+<h3 id="목표-">목표 :</h3>
+
+<p>1학기 수업간 배웠던 tree, reinforcement learning, image processing, NLP, GAN 등의 내용을 복습하고, 2학기 프로젝트 진행을 위한 자율주행 모델의 강화학습 관련 자료 조사, 관련 논문 서치 및 리뷰를 진행 할 예정이다.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="mi">1</span><span class="n">주차</span> <span class="p">:</span> <span class="n">tree</span> <span class="n">구조</span> <span class="n">복습</span> <span class="n">및</span> <span class="n">알고리즘</span> <span class="n">학습</span> <span class="n">및</span> <span class="n">리뷰</span>
+
+<span class="mi">2</span><span class="n">주차</span> <span class="p">:</span> <span class="n">NLP</span><span class="p">,</span> <span class="n">Image</span> <span class="n">Processing</span> <span class="n">학습</span> <span class="n">내용</span> <span class="n">복습</span> <span class="n">및</span> <span class="n">과제</span> <span class="n">내용</span> <span class="n">리뷰</span>
+
+<span class="mi">3</span><span class="n">주차</span> <span class="p">:</span> <span class="n">Reinforcement</span> <span class="n">Learning</span> <span class="n">학습</span> <span class="n">내용</span> <span class="n">복습</span> <span class="n">및</span> <span class="n">과제</span> <span class="n">내용</span> <span class="n">리뷰</span>
+
+<span class="mi">4</span><span class="n">주차</span> <span class="p">:</span> <span class="n">Classification</span><span class="p">,</span> <span class="n">GAN</span> <span class="n">학습</span> <span class="n">내용</span> <span class="n">복습</span> <span class="n">및</span> <span class="n">과제</span> <span class="n">내용</span> <span class="n">리뷰</span>
+
+<span class="mi">5</span><span class="n">주차</span> <span class="p">:</span> <span class="mi">2</span><span class="n">학기</span> <span class="n">자율주행</span> <span class="n">모델</span> <span class="n">관련</span> <span class="n">리서치</span>
+
+<span class="mi">6</span><span class="n">주차</span> <span class="p">:</span> <span class="n">자율주행</span> <span class="n">모델</span> <span class="n">관련</span> <span class="n">논문</span> <span class="n">리뷰</span> <span class="n">및</span> <span class="n">정리</span>
+</code></pre></div></div>]]></content><author><name>Woo124</name></author><category term="mogakco" /><summary type="html"><![CDATA[학번 : 202102539 이름 : 김우철]]></summary></entry><entry><title type="html">QtDesigner 이용 및 간단한 예제 풀기</title><link href="/jekyll-theme-yat/mojakco/2022/01/27/qtdesigner.html" rel="alternate" type="text/html" title="QtDesigner 이용 및 간단한 예제 풀기" /><published>2022-01-27T20:00:00+00:00</published><updated>2022-01-27T20:00:00+00:00</updated><id>/jekyll-theme-yat/mojakco/2022/01/27/qtdesigner</id><content type="html" xml:base="/jekyll-theme-yat/mojakco/2022/01/27/qtdesigner.html"><![CDATA[<p>창을 직접 생성해보고 QtDesigner를 통해 창을 디자인 후, 창을 닫을 때 닫을지 말지를 묻는 Message box가 나오게 하는 예제를 풀어본다.</p>]]></content><author><name>Woo124</name></author><category term="mojakco" /><summary type="html"><![CDATA[창을 직접 생성해보고 QtDesigner를 통해 창을 디자인 후, 창을 닫을 때 닫을지 말지를 묻는 Message box가 나오게 하는 예제를 풀어본다.]]></summary></entry><entry><title type="html">시그널-슬롯에 대한 공부 및 실습</title><link href="/jekyll-theme-yat/mojakco/2022/01/23/.html" rel="alternate" type="text/html" title="시그널-슬롯에 대한 공부 및 실습" /><published>2022-01-23T23:00:00+00:00</published><updated>2022-01-23T23:00:00+00:00</updated><id>/jekyll-theme-yat/mojakco/2022/01/23/</id><content type="html" xml:base="/jekyll-theme-yat/mojakco/2022/01/23/.html"><![CDATA[<p>시그널-슬롯에 대해 공부 및 이해를 한 후, QLineEdit의 textChanged 시그널을 QLabel.setText 슬롯과 직접 연결해본다.</p>]]></content><author><name>Woo124</name></author><category term="mojakco" /><summary type="html"><![CDATA[시그널-슬롯에 대해 공부 및 이해를 한 후, QLineEdit의 textChanged 시그널을 QLabel.setText 슬롯과 직접 연결해본다.]]></summary></entry><entry><title type="html">Dialog Application에 대한 학습 및 실습</title><link href="/jekyll-theme-yat/mojakco/2022/01/20/dialog-application.html" rel="alternate" type="text/html" title="Dialog Application에 대한 학습 및 실습" /><published>2022-01-20T20:00:00+00:00</published><updated>2022-01-20T20:00:00+00:00</updated><id>/jekyll-theme-yat/mojakco/2022/01/20/dialog-application</id><content type="html" xml:base="/jekyll-theme-yat/mojakco/2022/01/20/dialog-application.html"><![CDATA[<p>pyside6의 Dialog Application에 대한 학습을 하고, Dialog Application생성 및 QTextEdit을 사용한 예제를 실습해보며 이해한다.</p>]]></content><author><name>Woo124</name></author><category term="mojakco" /><summary type="html"><![CDATA[pyside6의 Dialog Application에 대한 학습을 하고, Dialog Application생성 및 QTextEdit을 사용한 예제를 실습해보며 이해한다.]]></summary></entry><entry><title type="html">QApplication과 QWidget 클래스에 대한 이해</title><link href="/jekyll-theme-yat/mojakco/2022/01/16/qapplication-qwidget.html" rel="alternate" type="text/html" title="QApplication과 QWidget 클래스에 대한 이해" /><published>2022-01-16T23:00:00+00:00</published><updated>2022-01-16T23:00:00+00:00</updated><id>/jekyll-theme-yat/mojakco/2022/01/16/qapplication-qwidget</id><content type="html" xml:base="/jekyll-theme-yat/mojakco/2022/01/16/qapplication-qwidget.html"><![CDATA[<p>pyside6의 QApplication과 QWidget 클래스에 대해 공부하고, 이를 통해 간단한 창 만들기 및 간단하 GUI에 대한 이해를 해본다.</p>]]></content><author><name>Woo124</name></author><category term="mojakco" /><summary type="html"><![CDATA[pyside6의 QApplication과 QWidget 클래스에 대해 공부하고, 이를 통해 간단한 창 만들기 및 간단하 GUI에 대한 이해를 해본다.]]></summary></entry></feed>
